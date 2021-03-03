@@ -1,0 +1,42 @@
+# filename: ex002.ttl
+@prefix ab: <http://www.google.com#>.
+
+ab:CSE_square ab:direct ab:AXIS_office.
+
+ab:AXIS_office ab:direct ab:Nescafe.
+
+ab:Nescafe ab:direct ab:ATM.
+
+ab:ATM ab:direct ab:SBI_square.
+
+ab:CSE_square ab:direct ab:Library.
+
+ab:Library ab:direct ab:Library_square.
+
+ab:SBI_square ab:direct ab:Acad_section.
+
+ab:SBI_square ab:direct ab:Audi_square.
+
+ab:VNIT_Gym ab:direct ab:VNIT_Auditorium.
+
+ab:Audi_square ab:direct ab:VNIT_Gym.
+
+ab:SBI_square ab:direct ab:SAC.
+
+ab:Audi_square ab:direct ab:Metallurgy.
+
+ab:Metallurgy ab:direct ab:Material_Sciences.
+
+ab:Material_Sciences ab:direct ab:Canteen_square.
+
+ab:SBI_square ab:direct ab:Acad_section.
+
+ab:SBI_square ab:direct ab:Architecture_square.
+
+ab:Canteen_square ab:direct ab:VNIT_canteen.
+
+ab:VNIT_canteen ab:direct ab:VNIT_powerhouse.
+
+ab:Canteen_square ab:direct ab:Chemical.
+
+ab:CSE ab:direct ab:CSE_square

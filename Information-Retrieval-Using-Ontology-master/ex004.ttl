@@ -1,0 +1,60 @@
+# filename: ex004.ttl
+@prefix ab: <http://www.google.com#>.
+
+ab:CSE_square ab:latitude "21.124869".
+ab:CSE_square ab:longitude "79.051773".
+
+
+ab:CSE ab:latitude "21.124810".
+ab:CSE ab:longitude "79.052197".
+
+ab:AXIS_office ab:latitude "21.124493".
+ab:AXIS_office ab:longitude "79.051708".
+
+ab:Nescafe ab:latitude "21.124364".
+ab:Nescafe ab:longitude "79.051688".
+
+ab:VNIT_Gym ab:latitude "21.124100".
+ab:VNIT_Gym ab:longitude "79.051134".
+
+ab:ATM ab:latitude "21.124184".
+ab:ATM ab:longitude "79.051657".
+
+ab:SBI_square ab:latitude "21.124053".
+ab:SBI_square ab:longitude "79.051640".
+
+ab:Audi_square ab:latitude "21.124075".
+ab:Audi_square ab:longitude "79.051346".
+
+ab:VNIT_Auditorium ab:latitude "21.124198".
+ab:VNIT_Auditorium ab:longitude "79.051131".
+
+ab:SAC ab:latitude "21.124065".
+ab:SAC ab:longitude "79.0517175".
+
+ab:Metallurgy ab:latitude "21.124135".
+ab:Metallurgy ab:longitude "79.050681".
+
+ab:Material_Sciences ab:latitude "21.124162".
+ab:Material_Sciences ab:longitude "79.050615".
+
+ab:Canteen_square ab:latitude "21.124432".
+ab:Canteen_square ab:longitude "79.049788".
+
+ab:Chemical ab:latitude "21.125027".
+ab:Chemical ab:longitude "79.050212".
+
+ab:VNIT_canteen ab:latitude "21.124559".
+ab:VNIT_canteen ab:longitude "79.049412".
+
+ab:VNIT_powerhouse ab:latitude "21.124647".
+ab:VNIT_powerhouse ab:longitude "79.049254".
+
+ab:Architecture_square ab:latitude "21.123986".
+ab:Architecture_square ab:longitude "79.052272".
+
+ab:Library ab:latitude "21.125212".
+ab:Library ab:longitude "79.051909".
+
+ab:Library_square ab:latitude "21.125608".
+ab:Library_square ab:longitude "79.052129".
